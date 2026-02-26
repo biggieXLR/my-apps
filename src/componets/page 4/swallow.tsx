@@ -4,7 +4,7 @@ import Amala from "../../../public/asset/image 1.png"
 import Fish from "../../../public/asset/image 2.png"
 
 
-const Swaex=()=>{
+const Swallow=()=>{
 
   return(
       <section id='chef' className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
@@ -83,4 +83,4 @@ const Swaex=()=>{
   )
 }
 
-export default Swaex;
+export default Swallow;

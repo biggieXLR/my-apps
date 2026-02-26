@@ -18,8 +18,8 @@ const Popular=()=>{
                 <div className="grid grid-cols-1 md:grid-cols-3 lg:gap-10  gap-3 flex-wrap px-6 md:px-10 py-3">
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Jollof} className="w-full flex md:hidden h-full"/>
+                           <Image alt="mainimg"src={Jollof} className="w-lg hidden md:flex h-full"/>
+                           <Image alt="mainimg"src={Jollof} className="w-lg flex md:hidden h-full"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -37,8 +37,8 @@ const Popular=()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Eba} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Yam} className="w-full flex md:hidden h-full"/>
+                           <Image alt="mainimg"src={Eba} className="w-lg hidden md:flex h-full"/>
+                           <Image alt="mainimg"src={Yam} className="w-lg flex md:hidden h-full"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -56,8 +56,8 @@ const Popular=()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Fish} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Fish} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="mainimg"src={Fish} className="w-125.5 hidden md:flex h-full"/>
+                           <Image alt="mainimg"src={Fish} className="w-125.5 flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">

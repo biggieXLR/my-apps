@@ -13,10 +13,10 @@ const Entrees =()=>{
                <div className="relative w-full  md:block py-8">
                 <h1 className="md:text-[32px] text-[16px] font-bold px-10 text-left justify-center">Jollof Rice & Entrees</h1>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-10  flex-wrap px-6 md:px-10 py-3">
-                    <div className="md:flex-col flex bg-white rounded-xl  mb:p-0 mb:pb-5">
+                    <div className="md:flex-col flex bg-white rounded-t-lg  mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Image3} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg" src ={Image3} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="mainimg"src={Image3} className="w-full rounded-t-lg hidden md:flex h-full"/>
+                           <Image alt="mainimg" src ={Image3} className="w-145.5 rounded-t-lg flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">

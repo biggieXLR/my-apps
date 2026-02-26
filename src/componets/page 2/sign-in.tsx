@@ -4,7 +4,7 @@ import Rectangle from '../page 1/Rectangle 1.png'
 import Logo from '../../../public/asset/logo.png'
 import Link from 'next/link';
 
-const Signup = () => {
+const Signin = () => {
     return (
        
     <section id="hero" className="lg:h-screen w-full text-black ">
@@ -122,4 +122,4 @@ const Signup = () => {
     );
 }
 
-export default Signup;
+export default Signin;
