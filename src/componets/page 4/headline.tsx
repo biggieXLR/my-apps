@@ -7,13 +7,12 @@ import ImageC from '../../../public/asset/imagec.png'
 const Headline = () => {
   return (
     <section
-      id="hero"
       className="relative w-full h-150.75 text-white mobile:hidden tablet:flex"
     >
       {/* Background Image */}
       <Image
         src={ImageC}
-        alt="mainimg"
+        alt="Nigerian cuisine background"
         className="absolute inset-0 w-full h-full object-cover"
       />
 

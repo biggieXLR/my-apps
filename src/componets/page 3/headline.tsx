@@ -4,7 +4,6 @@ import Welcome from "../../../public/asset/Welcome.png"
 const Head = () => {
   return (
     <section
-      id="intro"
       className="relative w-full h-152.5 text-white mobile:hidden tablet:flex"
     >
       {/* Background Image */}

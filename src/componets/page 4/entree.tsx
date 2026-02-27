@@ -7,7 +7,7 @@ import Image3 from "../../../public/asset/image 3.png"
 const Entrees =()=>{
 
   return(
-      <section id='chef' className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
+      <section  className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
             
             <div className="md:mx-auto md:container space-x-5 flex justify-between ">
                <div className="relative w-full  md:block py-8">
@@ -15,8 +15,8 @@ const Entrees =()=>{
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-10  flex-wrap px-6 md:px-10 py-3">
                     <div className="md:flex-col flex bg-white rounded-t-lg  mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Image3} className="w-full rounded-t-lg hidden md:flex h-full"/>
-                           <Image alt="mainimg" src ={Image3} className="w-145.5 rounded-t-lg flex md:hidden h-full]"/>
+                           <Image alt="Jollof rice and fried chicken"src={Image3} className="w-full rounded-t-lg hidden md:flex h-full"/>
+                           <Image alt="Jollof rice and fried chicken" src ={Image3} className="w-145.5 rounded-t-lg flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -34,8 +34,8 @@ const Entrees =()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Jollof} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full hidden md:flex h-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -53,8 +53,8 @@ const Entrees =()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Jollof} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full hidden md:flex h-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">

@@ -14,7 +14,7 @@ const SignUp = () => {
         {/* LEFT IMAGE */}
         <div className="relative w-1/2 hidden md:block">
           <Image
-            alt="mainimg"
+            alt="Family enjoying a meal together"
             src={Rectangle}
             className="absolute inset-0 object-cover w-full h-full lg:h-full"
           />

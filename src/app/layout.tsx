@@ -6,8 +6,8 @@ import Footer from "@/componets/page 1/footer";
 
 
 export const metadata: Metadata = {
-  title: "Foodie",
-  description: "Made by Brut#",
+  title: "Chuks Kitchen",
+  description: "Made by HeBRoN",
 };
 
 export default function RootLayout({

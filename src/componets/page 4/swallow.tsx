@@ -15,8 +15,8 @@ const Swallow=()=>{
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-10  flex-wrap px-6 md:px-10 py-3">
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Amala} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Amala} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="Amala and stew"src={Amala} className="w-full hidden md:flex h-full"/>
+                           <Image alt="Amala and stew"src={Amala} className="w-full flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -34,8 +34,8 @@ const Swallow=()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Fish} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Fish} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Fish} className="w-full hidden md:flex h-full"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Fish} className="w-full flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -53,8 +53,8 @@ const Swallow=()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Fish} className="w-full hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Fish} className="w-full flex md:hidden h-full]"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Fish} className="w-full hidden md:flex h-full"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Fish} className="w-full flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">

@@ -4,10 +4,10 @@ const Menu=()=>{
   return (
     <div className="h-fit bg-white py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        {/* Header */}
+        {/* Head */}
 
 
-        {/* Popular Section */}
+        {/* Popular */}
         <div className="bg-white rounded-lg border border-gray-200 p-8">
           <h2 className="text-xl font-semibold text-gray-800 mb-4">
              Menu Categories

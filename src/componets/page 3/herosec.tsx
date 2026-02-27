@@ -13,7 +13,7 @@ const Hero = () => {
       {/* Background Image */}
       <Image
         src={Image22}
-        alt="mainimg"
+        alt="beans, bread, and plantain"
         className="absolute inset-0 w-auto h-full object-cover"
       />
 

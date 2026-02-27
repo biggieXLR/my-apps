@@ -10,7 +10,7 @@ import Fish from "../../../public/asset/image 6.png"
 const Popular=()=>{
 
   return(
-      <section id='chef' className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
+      <section  className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
             
             <div className="md:mx-auto md:container space-x-5 flex justify-between ">
                <div className="relative w-full  md:block py-8">
@@ -18,8 +18,8 @@ const Popular=()=>{
                 <div className="grid grid-cols-1 md:grid-cols-3 lg:gap-10  gap-3 flex-wrap px-6 md:px-10 py-3">
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-lg hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Jollof} className="w-lg flex md:hidden h-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-lg hidden md:flex h-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-lg flex md:hidden h-full"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -37,8 +37,8 @@ const Popular=()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Eba} className="w-lg hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Yam} className="w-lg flex md:hidden h-full"/>
+                           <Image alt="Eba and stew"src={Eba} className="w-lg hidden md:flex h-full"/>
+                           <Image alt="Pounded yam and stew"src={Yam} className="w-lg flex md:hidden h-full"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -56,8 +56,8 @@ const Popular=()=>{
 
                     <div className="md:flex-col flex bg-white rounded-xl p-1 mb:p-0 mb:pb-5">
                        <div>
-                           <Image alt="mainimg"src={Fish} className="w-125.5 hidden md:flex h-full"/>
-                           <Image alt="mainimg"src={Fish} className="w-125.5 flex md:hidden h-full]"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Fish} className="w-125.5 hidden md:flex h-full"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Fish} className="w-125.5 flex md:hidden h-full]"/>
                        </div>
                     <div className="flex-col">
                         <div className="p-1 md:p-3">
@@ -75,7 +75,7 @@ const Popular=()=>{
 
                     <div className="hidden md:flex md:flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Snail} className="w-full"/>
+                           <Image alt="Snail and stew"src={Snail} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -91,7 +91,7 @@ const Popular=()=>{
 
                     <div className="hidden md:flex md:flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Yam} className="w-full"/>
+                           <Image alt="Egusi soup and pounded yam"src={Yam} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -107,7 +107,7 @@ const Popular=()=>{
 
                     <div className="hidden md:flex md:flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full"/>
                        </div>
 
                        <div className="p-3">

@@ -14,7 +14,7 @@ const Signin = () => {
         {/* LEFT IMAGE */}
         <div className="relative w-1/2 hidden md:block">
           <Image
-            alt="mainimg"
+            alt="Family enjoying a meal together"
             src={Rectangle}
             className="absolute inset-0 object-cover w-full h-full lg:h-screen"
           />
@@ -37,7 +37,7 @@ const Signin = () => {
           {/* Constrained content wrapper */}
           <div className="w-full md:container md:mx-auto xl:px-20 md:px-10 flex flex-col gap-5 h-full lg:h-screen justify-center">
 
-            {/* Top Nav */}
+            {/* Top Side */}
             <div className="flex-col flex justify-center md:justify-center items-center">
               <Image
                 alt="logo"

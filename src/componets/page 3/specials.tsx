@@ -8,7 +8,7 @@ import Yam from "../../../public/asset/yam.png"
 const Special=()=>{
 
   return(
-      <section id='chef' className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
+      <section  className="  bg-[#F3F4F6] w-full h-full text-black  flex flex-col md:flex">
             
             <div className="md:mx-auto md:container space-x-5 flex justify-between ">
                <div className="relative w-full  md:block py-16">
@@ -16,7 +16,7 @@ const Special=()=>{
                 <div className="grid grid-cols-1 md:grid-cols-3 lg:gap-10 gap-3  flex-wrap px-6 md:px-10 py-3">
                     <div className="flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Smokey} className="w-full"/>
+                           <Image alt="Spicy Tilapia Pepper Soup"src={Smokey} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -34,7 +34,7 @@ const Special=()=>{
 
                     <div className="flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -52,7 +52,7 @@ const Special=()=>{
 
                     <div className="flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -70,7 +70,7 @@ const Special=()=>{
 
                     <div className="hidden md:flex md:flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof} className="w-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -88,7 +88,7 @@ const Special=()=>{
 
                     <div className="hidden md:flex md:flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Jollof2} className="w-full"/>
+                           <Image alt="Jollof rice and fried chicken"src={Jollof2} className="w-full"/>
                        </div>
 
                        <div className="p-3">
@@ -106,7 +106,7 @@ const Special=()=>{
 
                     <div className="hidden md:flex md:flex-col bg-white rounded-xl pb-5">
                        <div>
-                           <Image alt="mainimg"src={Yam} className="w-full"/>
+                           <Image alt="Egusi soup and pounded yam"src={Yam} className="w-full"/>
                        </div>
 
                        <div className="p-3">
