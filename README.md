@@ -24,6 +24,11 @@ Second page :http://localhost:3000/Signin
 Third page :http://localhost:3000/Signup
 Fourth page :http://localhost:3000/Homescreen
 Fifth page :http://localhost:3000/Menu
+ 
+Please some of the links are functional 
+For example the Home and Explore buttons are functional on the Navbar and leads to thier respective pages.
+Not all but some.
+I just made those links just to show which pages which are currently available.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
